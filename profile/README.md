@@ -1,1 +1,1 @@
-![LP record](../assets/img/banner.jpg)
+![LP record](/assets/img/banner.jpg)
